@@ -1,7 +1,8 @@
-streamlit==1.27.0
-tensorflow==2.12.0
-numpy==1.23.5
-pandas==2.0.3
-scikit-learn==1.2.2
-regex==2025.11.3
-h5py==3.8.0
+python==3.10.5
+tensorflow==2.15.0
+numpy==1.24.3
+pandas==2.1.3
+scikit-learn==1.3.2
+regex==2.5.148
+h5py==3.13.0
+streamlit==1.51.0
