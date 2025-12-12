@@ -1,8 +1,7 @@
 streamlit==1.27.0
-tensorflow>=2.20.0
+tensorflow==2.12.0
 numpy
 pandas
-streamlit
-regex
 h5py
 scikit-learn
+regex
