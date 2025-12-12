@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+numpy
+pandas
+streamlit
+regex
+h5py
+scikit-learn
